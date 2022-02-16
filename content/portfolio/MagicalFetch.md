@@ -10,22 +10,15 @@ weight = 6
 Tickets being automatically available right after installation. It's magic!
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Tickets is an app where a user can purchase a ticket for cultural venues such as museum and touristic attractions. One of common problems among any consumer facing app is that sometimes users can not figure out how to use the app.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I think Tiqets app is a fairly simple app. You purchase a ticket in the app and you have the ticket in a minute. That's it! Show the ticket in the app at the venue and everything is done fast.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+ However, we also have another path that many users also goes through. That is when a user purchase a ticket on the web and install the app afterwards. In this scenario, a user has to authenticate himself in order to get the ticket that he ordered on a web browser. Perhaps the order took place on a different device from the mobile app where he wants to get the ticket. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Even though it's relatively straightforward steps, but still many things can go wrong. For example, Email address can be input incorrectly filled when purchasing the ticket. And belive me it happens much more often than you would think. In such a unhappy path, the only option the user had was to contact the customer service. The user was expecting to finish the entire process within 5 mins and now suddenly they have to calle somebody. It is a big problem for Tiqets. Tiqets is meaningless if the customer journey is fast, simple and pleasant. 
 
-## Header Level 2
+That is why Tiqets mobile team worked on the magical tickets fetch functionality. We built a system where we send the confirmation message in email or sms. When you click the url, we will make sure that you will have the ticket you ordered as soon as you launch the app.  
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+What's even better is that even if you don't have the app at the moment of clicking the url in the confirmation email/sms, you will still get the ticket as soon as you install the app. This was difficult to achieve but we made it work. I can not reveal how that exactly works under the nutshell, but it was an amazing improvement for the users journey. We reduced the rate of contact from users to our customer service drastically. 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
