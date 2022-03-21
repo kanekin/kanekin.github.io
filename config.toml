@@ -49,6 +49,10 @@ googleAnalytics = "G-Z2CQV8PSY6"
   home = true
 
   [[params.navlinks]]
+  name = "Articles"
+  url = "article/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
