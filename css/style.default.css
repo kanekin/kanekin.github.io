@@ -1584,7 +1584,7 @@ STYLE SWITCHER FOR DEMO
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 19px;
   line-height: 1.55;
   color: #000000;
   background-color: #f4f4f4;
@@ -1951,7 +1951,7 @@ h6,
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  color: #000000;
+  color: #595959;
 }
 h1,
 .h1 {
@@ -1963,7 +1963,7 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 700;
 }
 h4,
