@@ -3,7 +3,7 @@ date = "2022-03-21T16:36:01+01:00"
 draft = false
 image = ""
 showonlyimage = false
-title = "SwiftUI with Network requests: A complete example with TMDB API"
+title = "Missing Tutorial for Swift UI (Network and MVVM): Introduction"
 +++
 
 
@@ -11,12 +11,13 @@ title = "SwiftUI with Network requests: A complete example with TMDB API"
 
 #### TL;DR:
 
-We will make this app. (Screenshots)
+We will make this app. 
+![kinema record image](/img/article/swiftui-network-requests/kinema-record.jpeg)
 
 
 ### What is this article?
 
-iOS app built with Swift UI. It makes network calls to TMDB API to demonstrate the flow of fetching data and update the UI on iOS apps.
+A iOS native app development tutorial with Swift UI, MVVM, Network. The app makes network calls to [TMDB](https://www.themoviedb.org/) API to demonstrate the flow of fetching data and update the UI on a Swift UI app.
 
 ### Target audience
 
@@ -48,18 +49,18 @@ Apple's official tutorial is a beautiful interactive tutorial. But it doesn't in
 
 You might say it's not hard. I have seen many mistakes in the production code base of consumer-facing apps. The network is like veins running through the app. Most of interesting feature will most likely depends on your network layer. It would be painful if you have to refactor network layer later.
 
-### 2. You haven't worked on SwiftUI as an iOS Developer:
+### 2. You haven't worked with SwiftUI:
 
 The lifecycle of UIs is significantly different from UIKit. Reactive way of handling data (Binding UI with variables that represents the state of the app using Combine) seems to be the way to go in SwiftUI. If you didn't work with RxSwift, this article might give you a good glance at how data flows in SwiftUI apps between UI and the network layer.
 
-### 3. You haven't worked on async/await features (iOS 15.0+) as an iOS Developer:
+### 3. You haven't worked with async/await features (iOS 15.0+):
 
-Since the introduction of Combine (iOS 13: 2019), some people have been building apps with Combine-based API from `URLSession`. (`.dataPublisher { ... }`). However Apple introduced a new API on `URLSession` in 2021 utilising `async/await`. In this article, I will be mainly using the new async/await based API from URLSession.
+Since the introduction of Combine (iOS 13: 2019), Combine-based API from `URLSession`. (`.dataPublisher { ... }`) became a popular option to build the network layer with. However Apple introduced another new API on `URLSession` in 2021 utilising `async/await`. In this article, I will be mainly using the new async/await based API from URLSession.
 (I will also discuss why I prefer using async/await for network calls as well)
 
 
 
-## Why are you writing this article?
+## Why am I writing this article?
 
 There are many iOS articles out there. Why do we need more?
 
@@ -79,20 +80,15 @@ I would like to avoid discussing the reasoning of app architecture in this artic
 
 An App that can fetch data from TMDB API. Features of the app includes:
 
+- Login
 - Display a list of movies 
 - Display a details of a movie
-- Login
 
-  
+It will look like this:
 
-## End result:
+![kinema record gif](/img/article/kinema-record.gif)
 
-(screen shots again)
-
-
-
-
-## Links
+## Table of Content
 
 - Build a list view and details view with async/await based network calls
 - Error handling
