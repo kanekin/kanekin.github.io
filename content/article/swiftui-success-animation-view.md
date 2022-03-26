@@ -1,6 +1,6 @@
 +++
 date = "2022-03-26T16:53:28+01:00"
-draft = true
+draft = false
 image = "img/article/SuccessAnimation.gif"
 showonlyimage = false
 title = "SwiftUI: Success Animation"
