@@ -251,7 +251,7 @@ When a class is marked as `ObservableObject` and has properties marked as `@Publ
 
 > **_NOTE_**: Under the nutshell, Swift compiler will synthesize an `objectWillChange` publisher that emits the changed value before any of the properties marked as `@Published`. `ObservableObject` will make sure that the view gets invalidated whenever it receives `objectWillChange` event.
 
-### Implement Network layer
+### Implement Network layer in a ugly way
 At this point, we have a working UI which lists the movies. We already have a working pipeline where UI will be automatically updated every time `movies` in `MovieListViewModel` gets updated. The only missing part is the part that actually fetch the data from the endpoint. The focus of the tutorial.
 
 When you place the following code in `MovieListViewModel`, it actually starts to work:
