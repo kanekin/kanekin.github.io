@@ -1,16 +1,20 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/appclip.gif"
+image = "img/portfolio/appclip-thumbnail.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Tiqets: App Clip on Apple Map"
 weight = 1
 
 +++
 
-Tiqets Appclip directly integrated AppClip on Apple Map. Available for Rijksmuseum in Amsterdam, Sagrada Familia in Barcelona, MoMA in New York, and more!
+App Clip directly integrated on Apple Map. Available for Rijksmuseum in Amsterdam, Sagrada Familia in Barcelona, MoMA in New York, and more!
 
 <!--more-->
+
+<p>
+<img src=/img/portfolio/appclip-thumbnail.png/>
+</p>
 
 [App Clip](https://developer.apple.com/app-clips/) is a feature released by Apple in 2019. 
 
@@ -23,8 +27,7 @@ It was a very successful project and caught momentum within the company and beca
 
 You can find publications online about this in many tech-related publishers:
 - https://www.tiqets.com/news/204818-tiqets-and-apple-maps 
-- https://allinfo.space/2021/12/20/dutch-ticket-app-tiqets-now-
-  integrated-in-apple-maps/
+- https://allinfo.space/2021/12/20/dutch-ticket-app-tiqets-now-integrated-in-apple-maps/
 - https://blooloop.com/technology/news/tiqets-apple-maps/
 
 One look is worth a thousand words! Open your Apple Map and check out Rijksmuseum (Amsterdam), Sagrada Familia (Barcelona), MoMA(New York), and more!

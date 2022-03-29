@@ -7,6 +7,7 @@ title = "Network Demo with Swift UI and MVVM"
 +++
 
 An app to demostrate how network calls can be implemented in a SwiftUI/MVVM app.
+<!--more-->
 
 ![Thumbnail](/img/portfolio/kinema-record.jpeg)
 
