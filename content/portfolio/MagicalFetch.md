@@ -14,7 +14,7 @@ Tiqets is an app where a user can purchase a ticket for cultural venues such as 
 
 I think the Tiqets app is a fairly simple app. You purchase a ticket in the app and you have the ticket in a minute. That's it! Show the ticket in the app at the venue and everything is done fast.
 
- However, we also have another path that many users also go through. That is when a user purchases a ticket on the web and installs the app afterward. In this scenario, a user has to authenticate himself in order to get the ticket that he ordered on a web browser. Perhaps the order took place on a different device from the mobile app where he wants to get the ticket. 
+However, we also have another path that many users also go through. That is when a user purchases a ticket on the web and installs the app afterward. In this scenario, a user has to authenticate himself in order to get the ticket that he ordered on a web browser. Perhaps the order took place on a different device from the mobile app where he wants to get the ticket. 
 
 Even though it's relatively straightforward steps, but still many things can go wrong. For example, the Email address can be input incorrectly filled when purchasing the ticket. And believe me, it happens much more often than you would think. In such an unhappy path, the only option the user had was to contact customer service. The user was expecting to finish the entire process within 5 mins and now suddenly they have to call somebody. It is a big problem for Tiqets. Tiqets is meaningless if the customer journey is fast, simple, and pleasant. 
 
@@ -22,3 +22,5 @@ That is why Tiqets mobile team worked on the magical tickets fetch functionality
 
 What's even better is that even if you don't have the app at the moment of clicking the URL in the confirmation email/SMS, you will still get the ticket as soon as you install the app. This was difficult to achieve but we made it work. I can not reveal how that exactly works in the nutshell, but it was an amazing improvement for the user's journey. We reduced the rate of contact from users to our customer service drastically. 
 
+## My role in this project
+- Implemented the iOS logic to detect the purchase on install and fetch the ticket from backend
