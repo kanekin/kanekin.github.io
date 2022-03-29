@@ -1,6 +1,6 @@
 +++
 date = "2022-03-29T14:59:42+02:00"
-draft = true
+draft = false
 image = "img/portfolio/kinema-record.jpeg"
 showonlyimage = false
 title = "Network Demo with Swift UI and MVVM"
