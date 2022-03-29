@@ -19,7 +19,7 @@ unsafe=true
   description = "Describe your website"
   copyright = "&copy;2022 Tatsuya Kaneko"
   sidebarAbout = [
-    "iOS Developer with a strong product intuition.",
+    "iOS Developer with 8 years of experience.",
     "Originally from Japan, currently based in Amsterdam, the Netherlands."
   ]
   # Contact page
