@@ -7,26 +7,21 @@ draft = false
 weight = 4
 +++
 
+<p>
+<img src="/img/portfolio/filterablemap.gif" width="200"/>
+</p>
+
 Filterable items on map component.
 A common iOS UI pattern that can be found in many apps. 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+A very popular UI pattern, a map UI with filters. You can find this type of pattern in many apps, such as TooGoodToGo, OneFit/ClassPass, E-Mobility apps such as Felyx, GO, CHECK, SnappCar, Sixt Sharing, MyWheels and etc
+## Dynamic filters
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+What is unique about the map filters that we implemented at Tiqets is that new filters can be introduced without releasing a new version of the mobile app itself. We abstracted the filters and the list items so that we could introduce a new set of filters by the backend change alone. We were able to quickly A/B test the filters that are more useful for users. 
+Combined with the analytics data, we were able to see which filters were used more useful for the users and optimize the map UI.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+## My role in this project
+- Designed the backend response
+- Documented and coordinated the development with a backend developer and an Android developer 
+- Implemented the Map and filter UI on iOS app
