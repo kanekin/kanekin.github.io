@@ -42,7 +42,7 @@ The main purpose of the app is to demostrate how an app can be structured. It is
 ## Demo video:
 Click to play:
 <p>
-<a href="https://youtu.be/iM-mfaJs6Bg">
+<a href="https://youtu.be/Ny4RI_iajjA">
 <img src="/img/portfolio/video-thumbnail.png"  width="200" /> 
 </a>
 </p>
