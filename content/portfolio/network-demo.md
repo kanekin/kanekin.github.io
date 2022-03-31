@@ -6,7 +6,7 @@ showonlyimage = false
 title = "Network Demo with Swift UI and MVVM"
 +++
 
-An app to demostrate how network calls can be implemented in a SwiftUI/MVVM app.
+An app to demonstrate how network calls can be implemented in a SwiftUI/MVVM app.
 <!--more-->
 
 ![Thumbnail](/img/portfolio/kinema-record.jpeg)
@@ -18,13 +18,13 @@ Apple's introductory tutorial is a great starting point to learn about SwiftUI (
 - Network calls
   - Being able to communicate with many endpoints without code duplication
   - Concurrency
-    - Network calls that depends on the other calls' results
+    - Network calls that depend on the other calls' results
   - Error handling
 - Logging
 - Navigation
 - Test
 
-When I tried to extend my app after finishing the tutorial, I still had to make many decisions about how to organise the codebase. I thought it could be useful for myself and other people who are new to SwiftUI, if I implement the app with network calls with a more realistic app architecture with basic tests and logging.
+When I tried to extend my app after finishing the Apple's Swift UI tutorial, I still had to make many decisions about how to organize the codebase. I thought it could be useful for myself and other people who are new to SwiftUI if I implement the app with network calls with a more realistic app architecture with basic tests and logging.
 
 ## Disclaimer
 
