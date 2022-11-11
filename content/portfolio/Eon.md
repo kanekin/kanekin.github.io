@@ -7,11 +7,11 @@ title = "Eon: Earth history browser"
 weight = 1
 +++
 
-![Thumbnail](/img/portfolio/eon-timeline.gif)
-
 Eon is an app that is currently in development. It enables user to browse the history of the earth in interactive ways.
 
 <!--more-->
+
+![Thumbnail](/img/portfolio/eon-timeline.gif)
 
 ## Demo video:
 Click to play:
