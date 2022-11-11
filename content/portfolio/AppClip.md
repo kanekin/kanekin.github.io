@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/appclip-thumbnail.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Tiqets: App Clip on Apple Map"
-weight = 1
+weight = 2
 
 +++
 

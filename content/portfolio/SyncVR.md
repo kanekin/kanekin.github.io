@@ -4,11 +4,10 @@ title = "SyncVR Medical: VR headset controller on iPad"
 image = "img/portfolio/syncvr.png"
 draft = false
 showonlyimage = false
-weight = 2
+weight = 3
 +++
 
 SyncVR is a company that develops VR applications used in medical contexts. I have built an iOS app that allows nurses to remote control the VR headset to guide the patient in VR.
-
 
 <!--more-->
 
