@@ -19,8 +19,8 @@ unsafe=true
   description = "Describe your website"
   copyright = "&copy;2022 Tatsuya Kaneko"
   sidebarAbout = [
-    "iOS Developer with 8 years of experience.",
-    "Originally from Japan, currently based in Amsterdam, the Netherlands."
+    "iOS Developer with 8 years of experience. I have worked on various apps, from utility apps, habit forming helper apps to widely used banking apps. I am excited about the recent technological development from Apple, such as SwiftUI, async/await, and AR.",
+    "Originally from Japan, currently based in Amsterdam, the Netherlands.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -51,9 +51,9 @@ unsafe=true
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
-  name = "Articles"
-  url = "article/"
+  # [[params.navlinks]]
+  # name = "Articles"
+  # url = "article/"
 
   [[params.navlinks]]
   name = "About"

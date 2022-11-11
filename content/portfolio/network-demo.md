@@ -24,7 +24,7 @@ Apple's introductory tutorial is a great starting point to learn about SwiftUI (
 - Navigation
 - Test
 
-When I tried to extend my app after finishing the Apple's Swift UI tutorial, I still had to make many decisions about how to organize the codebase. I thought it could be useful for myself and other people who are new to SwiftUI if I implement the app with network calls with a more realistic app architecture with basic tests and logging.
+When I tried to extend my app after finishing the Apple's Swift UI tutorial, I still had to make many decisions about how to organize the codebase. It could be useful for myself and other people who are new to SwiftUI if I implement the app with network calls with a more realistic app architecture with basic tests and logging.
 
 ## Disclaimer
 

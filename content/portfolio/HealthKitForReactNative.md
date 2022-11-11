@@ -10,10 +10,10 @@ weight = 3
 React Native SDK for iOS Health Kit. It enabled React Native apps to subscribe Health Kit data updates. 
 
 <!--more-->
-This project was particularly difficult on receiving the updates from Health Kit while the app was in the background. It was a interesting challenge to orchestrate the timing of life cycles between iOS and React Native layers.
+It took a lot of researching and debugging to enable receiving the updates from Health Kit while the app was in the background. It was an exciting challenge to orchestrate the timing of life cycles between iOS and React Native layers.
 
 
 ## My role in this project
-- Researched lifecycles of ReactNative and iOS apps.
-- Made a prototype to enable React Native layer to get awaken while the app is in the background.
+- Researching lifecycles of ReactNative and iOS apps.
+- Made a prototype to enable React Native layer to get awakened while the app is in the background.
 - Delivered the ReactNative SDK to enable background data stream from iOS HealthKit.
